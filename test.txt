@@ -1,4 +1,1 @@
-salam 
-tess
-ggrug
-ggggggggggggggggggggggggggggggggggg
+This is a sample text file.
